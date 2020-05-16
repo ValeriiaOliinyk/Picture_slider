@@ -56,7 +56,6 @@ function openModal() {
   const imgRef = event.target;
   const largeImgUrl = imgRef.dataset.source;
   refs.modalImg.src = largeImgUrl;
-  refs.modalImg.alt = 'image';
   refs.modalImg.setAttribute('data-index', imgRef.dataset.index);
   activeIndex = refs.modalImg.dataset.index;
   activeIndex = Number(activeIndex);
