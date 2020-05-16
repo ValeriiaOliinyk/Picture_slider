@@ -66,6 +66,7 @@ function closeModal() {
   window.removeEventListener('keydown', onPressEsc);
   window.removeEventListener('keydown', sideClick);
   refs.modalWindow.classList.remove('is-open');
+  refs.modalImg.src = '';
 }
 
 function onBackDropClick(event) {
