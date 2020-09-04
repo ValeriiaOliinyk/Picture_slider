@@ -1,10 +1,10 @@
 export default [
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/14/16/43/hokkaido-4202825__340.jpg',
+      'https://pixabay.com/get/57e8d34b4d53a914f1dc8460da2932771c3ddee4515674_640.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/14/16/43/hokkaido-4202825_1280.jpg',
-    description: 'Hokkaido Flower',
+      'https://pixabay.com/get/57e8d34b4d53a914f6d1867dda35367b1c36dce552527349_1920.jpg',
+    description: 'Scotland',
   },
 
   {
@@ -17,10 +17,10 @@ export default [
 
   {
     preview:
-      'https://cdn.pixabay.com/photo/2019/05/16/09/47/view-4206785__340.jpg',
+      'https://pixabay.com/get/52e2dd444251ae14f1dc8460da2932771c3ddee4525376_640.jpg',
     original:
-      'https://cdn.pixabay.com/photo/2019/05/16/09/47/view-4206785_1280.jpg',
-    description: 'Aerial Beach View',
+      'https://pixabay.com/get/52e2dd444251ae14f6d1867dda35367b1c36dce55250784d_1920.jpg',
+    description: 'Japan',
   },
   {
     preview:
